@@ -1,6 +1,19 @@
 # pokemon-battle-bot
 List of algorithms apply Pokemon environments
 
+Installation Node: https://computingforgeeks.com/how-to-install-nodejs-on-ubuntu-debian-linux-mint/
+https://askubuntu.com/questions/1130791/how-to-uninstall-a-package-installed-from-snapcraft
+
+## Poke-env
+- [Documentation](https://poke-env.readthedocs.io/en/stable/getting_started.html)
+
+## Trained on Stable Baseline
+
+### Features:
+- Tensorboard
+- Data visualization tools
+- Webhost of Heron Systems Hackathon
+
 ## Resources:
 - https://towardsdatascience.com/poke-agent-pokemon-battling-reinforcement-learning-27ef10885c5c
 - https://www.youtube.com/watch?v=C1KpQc9cWmM
