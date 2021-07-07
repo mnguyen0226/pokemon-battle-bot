@@ -6,7 +6,7 @@ from tabulate import tabulate
 async def main():
     """Create a 3 random pokemon trainer bot to to fight against each other with random actions
     """
-    # We create three random players
+    # We create three random players - we do not train this player
     players = [
         RandomPlayer(max_concurrent_battles=10) for _ in range(3)
     ]

@@ -12,7 +12,7 @@ https://askubuntu.com/questions/1130791/how-to-uninstall-a-package-installed-fro
 ### Features:
 - Tensorboard
 - Data visualization tools
-- Webhost of Heron Systems Hackathon => For submitting bot and online ranking.
+- Webhost of Heron Systems Hackathon => For submitting bot and online ranking and streaming the game. Can add your face on it if wanted. And Submission form
 
 ## Resources:
 - https://towardsdatascience.com/poke-agent-pokemon-battling-reinforcement-learning-27ef10885c5c
